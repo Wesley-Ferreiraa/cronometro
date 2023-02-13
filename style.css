@@ -4,18 +4,18 @@
 }
 
 body{
-    background-color: rgb(59, 56, 56);
+    background-color: rgb(109, 151, 141);
 }
 
 .max-width{
     max-width: 500px;
-    width: 100%;
-    padding: 10px;
+    width: 30%;
+    padding: 23px;
     box-sizing: border-box;
-    margin-top: 10%;
+    margin-top: 26%;
     background-color: #fff;
-    border-radius: 60px;
-    box-shadow: 0 0 5px #fff;
+    border-radius: 100px;
+    box-shadow: 10px 10px 20px rgb(158, 200, 81);
     text-align: center;
 }
 
